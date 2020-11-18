@@ -11,7 +11,9 @@ Q2: Which Hour is best to advertise ?
 ![](https://github.com/jakubhimmel/pandas-sales-analysis/blob/main/output_19_0.png)
 
 Q3: Which one is the most sold product ? 
+
 ![](https://github.com/jakubhimmel/pandas-sales-analysis/blob/main/output_27_0.png)
 
 Q4: The correlation between a price and quantity sold. 
+
 ![](https://github.com/jakubhimmel/pandas-sales-analysis/blob/main/output_29_0.png)
